@@ -1,0 +1,2 @@
+v1='L’EMPEURER SOUVENT SIEGE A CONSTATINEUPLE. '
+print(v1.lower())

@@ -1,0 +1,20 @@
+html{
+    background-color: grey;
+    background-image: url("e7bff14933c44ad72c2635292bfb2695.jpg");
+}
+#ShadowTech_logo{
+    width: 50;
+    height: 100;
+}
+#btn_instagram{
+    color: black;
+    position: absolute;
+    left: 170px;
+    top: 8px;
+}
+#btn_all_pages{
+    color: black;
+    position: absolute;
+    left: 250px;
+    top: 8px;
+}
